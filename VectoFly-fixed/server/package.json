@@ -1,0 +1,9 @@
+{
+  "name": "vectofly-server",
+  "version": "1.0.0",
+  "description": "Serves Vectofly and its global leaderboard",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=16" },
+  "license": "MIT"
+}
